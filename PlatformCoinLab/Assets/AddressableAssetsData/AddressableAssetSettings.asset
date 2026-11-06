@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 659b32aac9ab12f47811d857920398a7
   m_currentHash:
     serializedVersion: 2
-    Hash: 1a89c496c8e939052a51a6c0e8152aeb
+    Hash: c1a7c293abd734d70c4068961f17067a
   m_ExtractTypeTreeData: 0
   m_DisableWriteTypeTree: 0
   m_OptimizeCatalogSize: 0
@@ -83,6 +83,20 @@ MonoBehaviour:
         m_Value: 'ServerData/[BuildTarget]'
       - m_Id: e713a7f1168947e41a472b762453d718
         m_Value: <undefined>
+    - m_InheritedParent: 
+      m_Id: 239a1716c21a56644af7b004f737dc23
+      m_ProfileName: RemotePractice
+      m_Values:
+      - m_Id: 32bd2693d5ff2e543babd8329bcbbe13
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 6b300075e1094cf459b428717e04410a
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 6da792bf9ce063a4ba34ccb174880319
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: bcd4b3d53e6b2de44b4ad6651164d268
+        m_Value: 'ServerData/[BuildTarget]'
+      - m_Id: e713a7f1168947e41a472b762453d718
+        m_Value: 'https://localhost:5443/[BuildTarget]'
     m_ProfileEntryNames:
     - m_Id: 32bd2693d5ff2e543babd8329bcbbe13
       m_Name: Local.BuildPath

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\github\\ContentServer\\ContentServer.csproj": {}
+    "C:\\Users\\KCH\\Documents\\GitHub\\GamePlatform\\ContentServer\\ContentServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\github\\ContentServer\\ContentServer.csproj": {
+    "C:\\Users\\KCH\\Documents\\GitHub\\GamePlatform\\ContentServer\\ContentServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\github\\ContentServer\\ContentServer.csproj",
+        "projectUniqueName": "C:\\Users\\KCH\\Documents\\GitHub\\GamePlatform\\ContentServer\\ContentServer.csproj",
         "projectName": "ContentServer",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\github\\ContentServer\\ContentServer.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\github\\ContentServer\\obj\\",
+        "projectPath": "C:\\Users\\KCH\\Documents\\GitHub\\GamePlatform\\ContentServer\\ContentServer.csproj",
+        "packagesPath": "C:\\Users\\KCH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KCH\\Documents\\GitHub\\GamePlatform\\ContentServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\KCH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
